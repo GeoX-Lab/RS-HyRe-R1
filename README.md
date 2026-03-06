@@ -23,3 +23,5 @@ Fig2：Overview of the proposed RS-HyRe-R1 framework. The pipeline begins with t
 ![REC_5](https://github.com/GeoX-Lab/RS-HyRe-R1/blob/main/REC_5.png)
 
 ![OVD_5](https://github.com/GeoX-Lab/RS-HyRe-R1/blob/main/OVD_5.png)
+
+Fig. 3: Qualitative comparison results with six models (including five RL training models). (a) Visualization of REC Task Results on the VRSBench-test Dataset. (b) Visualization of OVD Task Results on the RSOD-test Dataset. The proposed RS-HyRe-R1 consistently outperforms other baselines.
