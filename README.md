@@ -7,7 +7,7 @@ Experimental results confirm that RS-HyRe-R1 effectively reverses the ``perceptu
 
 ## Perceptual Inertia
 
-![abstract](D:\Doctoral\Paper\First_paper\write\RS-HyRe-R1\abstract.png)
+![abstract](https://github.com/GeoX-Lab/RS-HyRe-R1/blob/main/abstract.png)
 
 Fig1：Illustration of the “Perceptual Inertia'” phenomenon and our proposed RS-HyRe-R1 solution.
 (a) Existing RL-driven models (e.g., TinyRS-R1, Geo-R1) often struggle with visual reasoning, exhibiting hallucinations or relying on superficial feature matching.  (b) We identify this bottleneck as “Perceptual Inertia”—the tendency of models to fixate on salient shortcuts (e.g., buildings) while neglecting broader context. (c) To overcome this, our RS-HyRe-R1 employs a hybrid reward evolutionary strategy that incentivizes ``Observing More Diverse''. This strategy constructs diverse and logically rigorous reasoning chains by observing more complementary visual evidence.
