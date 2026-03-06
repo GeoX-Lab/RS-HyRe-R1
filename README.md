@@ -14,12 +14,12 @@ Fig1：Illustration of the “Perceptual Inertia'” phenomenon and our proposed
 
 ## Method
 
-![method](D:\Doctoral\Paper\First_paper\write\RS-HyRe-R1\method.png)
+![method](https://github.com/GeoX-Lab/RS-HyRe-R1/blob/main/method.png)
 
 Fig2：Overview of the proposed RS-HyRe-R1 framework. The pipeline begins with the construction of a RS-Task Dataset (Left), utilizing only 1,600 samples across REC, OVD, and VQA tasks. We employ GRPO for RL training (Middle), where the Policy Model generates multiple rollout answers (o_1 to o_N). The optimization is guided by the Hybrid Reward Mechanism, which evaluates outputs through three dimensions: Spatial Reasoning Activation, RS-task Perception Correctness, and Visual-Semantic Path Evolution. The rightmost section demonstrates the model's capability to generate comprehensive reasoning chains and accurate predictions across all three tasks.
 
 ## Results
 
-![REC_5](D:\Doctoral\Paper\First_paper\write\RS-HyRe-R1\REC_5.png)
+![REC_5](https://github.com/GeoX-Lab/RS-HyRe-R1/blob/main/REC_5.png)
 
-![OVD_5](D:\Doctoral\Paper\First_paper\write\RS-HyRe-R1\OVD_5.png)
+![OVD_5](https://github.com/GeoX-Lab/RS-HyRe-R1/blob/main/OVD_5.png)
