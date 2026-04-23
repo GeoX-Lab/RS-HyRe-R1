@@ -5,6 +5,14 @@ To overcome this optimization bias, compel the model to resume exhaustive mining
 To ensure the model flexibly focuses on different visual information across tasks, the RS-task perception correctness reward establishes adaptive quality anchors. By dynamically calibrating answer deviations across different task paradigms, it ensures precise locking of geometric boundaries and semantic ground truths during during transitions between RS tasks. Furthermore, visual-semantic path evolution reward is integrated to penalize repetitive reasoning patterns, thereby incentivizing the capture of neglected complementary cues to construct comprehensive evidence chains.
 Experimental results confirm that RS-HyRe-R1 effectively reverses the ``perceptual inertia",  prompting the model to generate deep reasoning sequences rich in diverse visual detail. With only 3B parameters, it achieves state-of-the-art performance across referring expression comprehension (REC), open vocabulary object detection (OVD), and Visual Question Answering (VQA) tasks, outperforming existing models with up to 7B parameters. Notably, in cross-dataset zero-shot testing, it improves VQA accuracy and REC localization precision by 3.16\% and 3.72\%, respectively, over the second-best model, demonstrating superior generalization capabilities. The source code and dataset are available at https://github.com/geox-lab/RS-HyRe-R1.
 
+## Release
+
+**`2026.04.23`** Release the Model at [`🤗HuggingFace`](https://huggingface.co/geozgz/RS-HyRe-R1/tree/main).
+
+**`2026.04.19`** 🔥Paper release [`📕Arxiv`](https://arxiv.org/abs/2604.17504).
+
+🔥Release the code of [RS-HyRe-R1](https://github.com/GeoX-Lab/RS-HyRe-R1).
+
 ## Perceptual Inertia
 
 ![abstract](https://github.com/GeoX-Lab/RS-HyRe-R1/blob/main/abstract.png)
