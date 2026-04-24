@@ -7,7 +7,7 @@ Experimental results confirm that RS-HyRe-R1 effectively reverses the ``perceptu
 
 ## Release
 
-**`2026.04.23`** Release the Model at [`🤗HuggingFace`](https://huggingface.co/geozgz/RS-HyRe-R1/tree/main).
+**`2026.04.23`** Release the Model at 🔥 [`🤗HuggingFace`](https://huggingface.co/geozgz/RS-HyRe-R1/tree/main).
 
 **`2026.04.19`** 🔥Paper release [`📕Arxiv`](https://arxiv.org/abs/2604.17504).
 
