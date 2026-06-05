@@ -13,6 +13,11 @@ Experimental results confirm that RS-HyRe-R1 effectively reverses the ``perceptu
 
 🔥Release the code of [RS-HyRe-R1](https://github.com/GeoX-Lab/RS-HyRe-R1).
 
+## Dataset
+RS-HyRe-R1 training utilises several publicly available remote sensing datasets. You can download our pre-processed datasets from the code repository and use them straight away. All test sets are based on existing publicly available remote sensing datasets.
+
+You need to download the images from the original dataset. We only provide the annotation due to the copyright issue.
+
 ## Perceptual Inertia
 
 ![abstract](https://github.com/GeoX-Lab/RS-HyRe-R1/blob/main/abstract.png)
